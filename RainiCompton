@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Web Design HTML5 Final Project</title>
+</head>
+<header>
+  	<nav>
+		<h1>Raini Compton</h1>
+		<a href="https://www.coursera.org/">One</a>
+  		<a href="https://www.coursera.org/specializations/web-design">Two</a>
+  		<a href="https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm">Three</a>
+  		<a href="https://hiring.monster.com/resources/job-descriptions/computer/web-developer/">.&nbsp;.&nbsp;.&nbsp;Happy!</a>
+  	</nav>
+</header>
+<section>
+		<h2>Favorite Foods</h2>
+		<ul>
+			<li>Chicago Style Pizza</li>
+			<li>California Roll Sushi</li>
+			<li>Organic Fruits & Veggies</li>
+			<li>Moscato (Yes, it is a food group! &#128512;)</li>
+		</ul>
+</section>
+<section>
+		<h2>Achievements</h2>
+		<p>Progress in this course (100%) <progress value="1"></progress><br>
+		Progress in the Specialization capstone (20%) <progress value="20" max="100"></progress><br>
+		Progress in life goals (70%) <progress value="70" max="100"></progress>
+		</p>
+</section>
+<section>
+		<h2>More About Me</h2>
+		<details open>
+			<summary>My Childhood</summary>
+			<p>While I have an ecclectic interest in music, art, literature, and technology, my greatest interest began at a very young age.  I was always curious about everything and sought knowledge about anything.  My hunger for knowledge has been <em>the driving force</em> throughout my life.
+			</p>
+		</details>
+</section>
+<footer>
+	<p>
+	<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
+	This page was created by Raini Compton & Colleen van Lent. To learn more about web design, visit
+<a href="http://www.intro-webdesign.com">Intro to Web Design.</a>
+	</p>
+</footer>
+</body>
+</html>
